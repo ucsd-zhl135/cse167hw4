@@ -30,3 +30,16 @@ You can compare it to a real Blender render:
 
 ![Blender render](realbmw.png)
 
+Also, there's no real specular information in the materials exported in .mtl (it's all just 0.5 0.5 0.5, which is wrong), so everything looks a little matte. 
+
+Next we have classroom. 
+
+![My render](classroom.png)
+
+```
+total verts 1359166
+total tris 2674400
+bvh took 6269 height 32 size 1737203
+render took 3039
+```
+
