@@ -28,8 +28,7 @@ You can compare it to a real Blender render:
 
 ![Blender render](realbmw.png)
 
-Also, there's no real specular information in the materials exported in .mtl (it's all just 0.5 0.5 0.5, which is wrong), so everything looks a little matte. 
-
+Also, there's no real specular information in the materials exported in .mtl (it's all just 0.5 0.5 0.5, which is wrong), so I just made everything matte-ish. 
 Next we have classroom. 
 
 ![My render](classroom.png)
