@@ -43,3 +43,7 @@ bvh took 6269 height 32 size 1737203
 render took 3039
 ```
 
+![Blender render](realclass.png)
+
+Close enough. 
+
