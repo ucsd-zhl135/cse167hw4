@@ -16,7 +16,7 @@ The first is the famous Blender BMW test. For some reason, it's been removed fro
 
 ![My render](bmw.png)
 
-Of course, .obj exports don't include any camera information, so I had to write a python script to dump the camera information from Blender. Here are the stats for the scene, rendered at 3840x2160:
+Of course, .obj exports don't include any camera information, so I had to write a python script to dump the camera information from Blender. Also, there's no lighting, so I just randomly put some lights around. Here are the stats for the scene, rendered at 3840x2160:
 
 ```
 total verts 365260
